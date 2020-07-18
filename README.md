@@ -4,6 +4,8 @@
 
 ## 新舊頁面差異
 
+test
+
 舊版首頁(V2版)
 
 ![RagnarokShopV2](https://i.imgur.com/Y0g9oAD.png)
